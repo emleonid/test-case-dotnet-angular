@@ -1,1 +1,4 @@
-# test-case-dotnet-angular
+## .NET / Angular test case
+
+data.csv - file with data
+Test case.pdf - documentation
